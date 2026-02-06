@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rg345969@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Phonepe Pulse Data Visualization and Exploration
+- 🔭 **I’m currently working on:** Solar Power Data Visualization and Exploration
 - 📫 **How to reach me:** rg345969@gmail.com
 - 😄 **Pronouns:** Rohit
 - ⚡ **Fun fact:** "Without data, you're just another person with an opinion" by W. Edwards Deming
